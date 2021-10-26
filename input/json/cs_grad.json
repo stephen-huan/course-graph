@@ -1,0 +1,29 @@
+var options = {
+    "configure": {
+        "enabled": false
+    },
+    "interaction": {
+        "keyboard": true
+    },
+    "layout": {
+        "randomSeed": 16
+    },
+    "edges": {
+        "color": {
+            "inherit": "to"
+        }
+    },
+    "physics": {
+        "enabled": true,
+        "barnesHut": {
+            "gravitationalConstant": -4000
+        },
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+}

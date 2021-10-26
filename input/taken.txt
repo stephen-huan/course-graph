@@ -1,0 +1,11 @@
+CS 1100   # Freshman Leap Seminar
+CS 1301   # Intro to Computing
+CS 1331   # Intro-Object Orient Prog
+CS 1332   # Data Struct & Algorithms
+CS 2050   # Intro Discrete Math CS
+
+MATH 24X1 # old multivar
+MATH 2X51 # multivar 
+MATH 3406 # a second course in linear algebra
+MATH 3670 # probability & statistics
+

@@ -1,0 +1,34 @@
+MATH 1554 # linear algebra
+MATH 24X1 # old multi, course data is old
+MATH 2X51 # multivariate calculus
+MATH 3012 # combinatorics
+MATH 3215 # probability
+MATH 3670 # probability & statistics
+
+CS 1301   # intro to computing, CS 1315, media, CS 1371, for engineers 
+CS 1331   # object oriented, CS 1316, media, CS 1372, for engineers
+CS 1332   # data structs & algs, CS 1372, for engineers
+CS 2110   # machine language, CS 2261, media
+CS 2200   # systems and networks, ECE 3057, EE class
+CS 2050   # discrete math, CS 2051, honors
+CS 3210   # operating systems, CS 4499 doesn't exist
+CS 3510   # algorithms, CS 3511, honors
+CS 3750   # user interface design, PSYC 3750
+CS 3790   # intro to cognitive science, CS 3790, PST 3790, PSYC 3790, ISYE 3790
+CS 4003   # ethics, CS 3001, CS 4001, CS 4002, CS 4003, CS 4726, SLS 3110
+CS 4420   # database, CS 6400, graduate 
+CS 4495   # computer vision, CS 7495, graduate
+CS 4641   # machine learning, CS 4600 doesn't exist
+
+# graduate
+CS 6505   # design vs computability, CS 6550 
+CS 6725   # information security policies, PUBP 6725 
+CS 6750   # HCI, PSYC 6750
+CS 6795   # intro to cognitive science, CS 6795, ISYE 6795, PSYC 6795
+CS 7630   # autonomous robots, CS 4631 doesn't exist
+CS 7641   # machine learning, CSE 6740, ISYE 6740, CS 7641
+CS 7785   # robotics, AE 7785, CS 7785, ECE 7785, ME 7785
+CS 8750   # robotics, AE 8750, CS 8750, ECE 8750, ME 8750
+
+ECE 6786  # medical imaging systems, BMED 6786 
+

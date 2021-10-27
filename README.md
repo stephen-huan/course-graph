@@ -103,13 +103,18 @@ simplified condition.
 So for each possible or, we pick a single class that replaces it.
 It's annoying that we have to do this by hand, but it's not too bad.
 
-
 ## Examples
 
+CS courses:
 ```bash
-python graph.py --data data/courses.json --prune input/prune.txt --options input/json/cs_undergrad.json --undergrad
-python graph.py --data data/courses.json --prune input/prune.txt --options input/json/cs_undergrad_cat.json --undergrad --color
-python graph.py --data data/courses.json --prune input/prune.txt --options input/json/cs_grad.json -k 15
-python graph.py --data data/courses.json --prune input/prune.txt --options input/json/cs_grad_cat.json -k 15 --color
+python graph.py --data data/courses.json --course input/cs_courses.txt --prune input/prune.txt --options input/json/cs_undergrad.json --undergrad 
+python graph.py --data data/courses.json --course input/cs_courses.txt --prune input/prune.txt --options input/json/cs_undergrad_cat.json --undergrad --color
+python graph.py --data data/courses.json --course input/cs_courses.txt --prune input/prune.txt --options input/json/cs_grad.json -k 15
+python graph.py --data data/courses.json --course input/cs_courses.txt --prune input/prune.txt --options input/json/cs_grad_cat.json -k 15 --color
+```
+
+Math courses:
+```bash
+python graph.py --data data/courses.json --course input/math_courses.txt --prune input/prune.txt --options input/json/math_undergrad.json --undergrad 
 ```
 

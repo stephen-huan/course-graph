@@ -187,7 +187,7 @@ if __name__ == "__main__":
 
     # generate prerequisite trees for each course
     trees = {}
-    for cid in sorted(course_data):
+    for cid in sorted(courses):
         trees[cid] = cs.parse_prereq(course_data[cid]["prereqs"], course_prune)
         # print(f"{header(cid)} {trees[cid]}")
 

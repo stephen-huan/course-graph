@@ -1,0 +1,115 @@
+### undergraduate
+#------------------------------------------------------------------------------
+
+MATH 1111     # College Algebra
+MATH 1113     # Precalculus
+MATH 1550     # Introduction to Differential Calculus
+MATH 1551     # Differential Calculus
+MATH 1552     # Integral Calculus
+MATH 1553     # Introduction to Linear Algebra
+MATH 1554     # Linear Algebra
+MATH 1555     # Calculus for Life Sciences
+MATH 1564     # Linear Algebra with Abstract Vector Spaces
+MATH 1711     # Finite Mathematics
+MATH 1712     # Survey of Calculus
+MATH 2106     # Foundations of Mathematical Proof
+MATH 2550     # Introduction to Multivariable Calculus
+MATH 2551     # Multivariable Calculus
+MATH 2552     # Differential Equations
+MATH 2561     # Honors Multivariable Calculus
+MATH 2562     # Honors Differential Equations
+MATH 2603     # Introduction to Discrete Mathematics
+MATH 3012     # Applied Combinatorics
+MATH 3215     # Introduction to Probability and Statistics
+MATH 3235     # Probability Theory
+MATH 3236     # Statistical Theory
+MATH 3406     # A Second Course on Linear Algebra
+MATH 3670     # Probability and Statistics with Applications
+MATH 4022     # Introduction to Graph Theory
+MATH 4032     # Combinatorial Analysis
+MATH 4080     # Senior Project I
+MATH 4090     # Senior Project II
+MATH 4107     # Abstract Algebra I
+MATH 4108     # Abstract Algebra II
+MATH 4150     # Introduction to Number Theory
+MATH 4221     # Stochastic Processes I
+MATH 4261     # Mathematical Statistics I
+MATH 4262     # Mathematical Statistics II
+MATH 4280     # Introduction to Information Theory
+MATH 4305     # Topics in Linear Algebra
+MATH 4317     # Analysis I
+MATH 4318     # Analysis II
+MATH 4320     # Complex Analysis
+MATH 4347     # Partial Differential Equations I
+MATH 4431     # Introduction to Topology
+MATH 4432     # Introduction to Algebraic Topology
+MATH 4441     # Differential Geometry
+MATH 4541     # Dynamics and Bifurcations I
+# MATH 4580     # Linear Programming
+MATH 4581     # Classical Mathematical Methods in Engineering
+MATH 4640     # Numerical Analysis I
+MATH 4755     # Mathematical Biology
+MATH 4782     # Quantum Information and Quantum Computing
+MATH 4801 UG  # Undergraduate Seminar
+MATH 4802     # Mathematical Problem Solving
+
+### graduate
+#------------------------------------------------------------------------------
+
+MATH 6001     # Introduction to Graduate Mathematics
+MATH 6014     # Graph Theory
+MATH 6112     # Advanced Linear Algebra
+MATH 6121     # Algebra I
+MATH 6122     # Algebra II
+MATH 6221     # Advanced Classical Probability Theory
+MATH 6241     # Probability I
+MATH 6242     # Probability II
+MATH 6262     # Statistical Estimation
+MATH 6263     # Testing Statistical Hypotheses
+MATH 6266     # Linear Statistical Models
+MATH 6267     # Multivariate Statistical Analysis
+MATH 6307     # Ordinary Differential Equations I
+MATH 6308     # Ordinary Differential Equations II
+MATH 6321     # Complex Analysis
+MATH 6337     # Real Analysis I
+MATH 6338     # Real Analysis II
+MATH 6341     # Partial Differential Equations I
+MATH 6342     # Partial Differential Equations II
+MATH 6421     # Algebraic Geometry I
+MATH 6422     # Algebraic Geometry II
+MATH 6441     # Algebraic Topology I
+MATH 6452     # Differential Topology
+MATH 6455     # Differential Geometry I
+MATH 6514     # Industrial Mathematics I
+MATH 6580     # Introduction to Hilbert Spaces
+MATH 6635     # Numerical Methods in Finance
+MATH 6640     # Introduction to Numerical Methods for Partial Differential Equations
+MATH 6641     # Advanced Numerical Methods for Partial Differential Equations
+MATH 6643     # Numerical Linear Algebra
+MATH 6644     # Iterative Methods for Systems of Equations
+MATH 6645     # Numerical Approximation Theory
+MATH 6646     # Numerical Methods for Ordinary Differential Equations
+MATH 6647     # Numerical Methods for Dynamical Systems
+# MATH 6701     # Math Methods of Applied Sciences I
+MATH 6702     # Math Methods of Applied Sciences II
+MATH 6705     # Modeling and Dynamics
+MATH 6759     # Stochastic Processes in Finance I
+MATH 6761     # Stochastic Processes I
+MATH 6762     # Stochastic Processes II
+MATH 6767     # Design and Implementation of Systems to Support Computational Finance
+# MATH 6769     # Fixed Income Securities
+MATH 6783     # Statistical Techniques of Financial Data Analysis
+MATH 6785     # The Practice of Quantitative and Computational Finance
+MATH 7012     # Enumerative Combinatorics
+MATH 7014     # Advanced Graph Theory
+MATH 7018     # Probabilistic Methods in Combinatorics
+MATH 7244     # Stochastic Processes and Stochastic Calculus I
+MATH 7245     # Stochastic Processes and Stochastic Calculus II
+MATH 7251     # High-dimensional probability
+MATH 7252     # High-Dimensional Statistics
+MATH 7334     # Introduction to Operator Theory
+MATH 7337     # Harmonic Analysis
+MATH 7338     # Functional Analysis
+MATH 7581     # Calculus of Variations
+MATH 8803-PHD # Mathematics Written Comps Preparatory Class
+

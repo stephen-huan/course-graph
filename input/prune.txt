@@ -32,3 +32,11 @@ CS 8750   # robotics, AE 8750, CS 8750, ECE 8750, ME 8750
 
 ECE 6786  # medical imaging systems, BMED 6786 
 
+# math
+MATH 1551
+MATH 1552
+MATH 2106
+MATH 2551
+MATH 2552
+MATH 6337
+

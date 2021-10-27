@@ -2490,5 +2490,1670 @@
         "description": "Doctoral Thesis Prerequisite: consent of the College.",
         "prereqs": "",
         "title": "Doctoral Thesis"
+    },
+    "MATH 1111": {
+        "description": "Study of the properties of algebraic, exponential, and logarithmic functions as needed for pre-calculus and calculus.",
+        "extra": "",
+        "credit": "4",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18",
+        "prereqs": "None.",
+        "schedule": "Every spring and fall semesters",
+        "title": "College Algebra"
+    },
+    "MATH 1113": {
+        "description": "Analytic geometry, the function concept, polynomials, exponential, logarithms, trigonometric functions, mathematical induction, the theory of equations.",
+        "extra": "",
+        "credit": "4",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "Math 1111 with a minimum grade of D\u00a0or\u00a0Math SAT Section Score (new SAT) of 530\u00a0or\u00a0ACT score of 21.",
+        "schedule": "Every spring and fall semesters",
+        "title": "Precalculus"
+    },
+    "MATH 1501": {
+        "description": "See MATH 1551 and new math core for Fall 2015. Differential calculus and basic integral calculus including the fundamental theorem of calculus, including the underlying theory of limits for functions and sequences.",
+        "extra": "New Math Core Fall 2015.",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "Math SAT score of 600 or higher, or MATH 1113 Precalculus.",
+        "schedule": "Not offered after Summer 2015",
+        "title": "Calculus I"
+    },
+    "MATH 1502": {
+        "description": "See MATH 1552, 1553, 1554, 1564. Concludes the treatment of single variable calculus, and begins linear algebra; the linear basis of the multivariable theory. The first 1/3 of this course covers more advanced single variable calculus. The remaining 2/3 is an introduction to linear algebra, the theory of linear equations in several variables.",
+        "extra": "New Math Core Fall 2015.",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1501.",
+        "schedule": "Not offered after Spring 2016",
+        "title": "Calculus II"
+    },
+    "MATH 1503": {
+        "description": "Single variable differential and integral calculus: sequences and difference equations, limit and continuity, differentiation and integration and applications. The topics covered parallel those of MATH 1501 but the applications and examples are drawn from life sciences instead of physical sciences.",
+        "extra": "",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "Math SAT score 600 or higher, or converted ACT Math 600 or higher, or MATH 1113 Precalculus minimum grade of D.",
+        "schedule": "Every Fall Semester",
+        "title": "Calculus I for Life Sciences"
+    },
+    "MATH 1504": {
+        "description": "Taylor approximations, introduction to differential equations, linear algebra and introduction to multivariable calculus. Motivating examples drawn from life sciences.",
+        "extra": "",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1503 or MATH 1501 or MATH 1511 or MATH 15X1.",
+        "schedule": "Every Spring Semester",
+        "title": "Calculus II for Life Sciences"
+    },
+    "MATH 1512": {
+        "description": "This course is designed for students who have had a serious single variable calculus course in high school.",
+        "extra": "Non-HP Section - AP Calculus BC score of 5, must apply in July",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "HP Section - for Honors Program students only",
+        "schedule": "Every fall",
+        "title": "Honors Calculus II"
+    },
+    "MATH 1522": {
+        "description": "Will be replaced by MATH 1553. See also MATH 1554, 1564. Transfer students with credit for MATH 15X2 (Transfer Calculus II) should take MATH 1522 to satisfy the linear algebra requirement in MATH 1502.",
+        "extra": "New Math Core Fall 2015.",
+        "credit": "2",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 15X2",
+        "schedule": "Not offered after Summer 2015",
+        "title": "Introduction to Linear Algebra for Calculus"
+    },
+    "MATH 1550": {
+        "description": "An introduction to differential calculus including the theory of limits for functions and sequences (only for Summer Freshmen).",
+        "extra": "",
+        "credit": "3",
+        "offered": "su21, su20, su19, su18",
+        "prereqs": "SAT Math score of 600 or\u00a0Math SAT Section Score (new SAT) of 620 or\u00a0ACT 26 or ACT equivalent 600 or MATH 1113 Precalculus.",
+        "schedule": "Every Summer",
+        "title": "Introduction to Differential Calculus"
+    },
+    "MATH 1551": {
+        "description": "Differential calculus including applications and the underlying theory of limits for functions and sequences.",
+        "extra": "",
+        "credit": "2",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "Math SAT Section Score (new SAT) of 620\u00a0or\u00a0ACT 26 or ACT equivalent 600 or MATH 1113 Precalculus.",
+        "schedule": "Every Semester",
+        "title": "Differential Calculus"
+    },
+    "MATH 1552": {
+        "description": "Definite and indefinite integrals, techniques of integration, improper integrals, infinite series, applications.",
+        "extra": "",
+        "credit": "4",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 1550 or MATH 1551 or MATH 1501 or MATH 15X1 or MATH 1X51.",
+        "schedule": "Every Semester",
+        "title": "Integral Calculus"
+    },
+    "MATH 1553": {
+        "description": "An introduction to linear algebra through eigenvalues and eigenvectors, applications to linear systems, least squares.",
+        "extra": "MATH 1553, MATH 1554, and\u00a0MATH 1564 are equivalent and only one can be taken for credit. Note:\u00a0MATH 4305\u00a0cannot be used for credit in the BS MTH degree.",
+        "credit": "2",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "Math SAT Section Score (new SAT) of 620\u00a0or\u00a0ACT 26 or ACT equivalent 600 or MATH 1113 Precalculus or 15X2 or 1X52 or MATH 1552 Integral Calculus.",
+        "schedule": "Every Semester",
+        "title": "Introduction to Linear Algebra"
+    },
+    "MATH 1554": {
+        "description": "Linear algebra through eigenvalues, eigenvectors, applications to linear systems, least squares, diagonalization, quadratic forms.",
+        "extra": "MATH 1553, MATH 1554, and MATH 1564 are equivalent and only one can be taken for credit.\nNote: MATH 4305 cannot be used for credit in the BS MTH degree.",
+        "credit": "4",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "Math SAT Section Score (new SAT) of 620 or ACT 26 or ACT equivalent 600 or MATH 1113 Precalculus or 15X2 or 1X52 or MATH 1552 Integral Calculus.",
+        "schedule": "Every Semester",
+        "title": "Linear Algebra"
+    },
+    "MATH 1555": {
+        "description": "Overview of integral calculus, multivariable calculus, and differential equations for biological sciences. This course is required for students in School of Biology.",
+        "extra": "",
+        "credit": "4",
+        "offered": "sp21, sp20, sp19, sp18, sp16",
+        "prereqs": "MATH 1550 or MATH 1551 or MATH 1501 or MATH 15X1 or MATH 1X51",
+        "schedule": "Every Spring Semester",
+        "title": "Calculus for Life Sciences"
+    },
+    "MATH 1564": {
+        "description": "This is an intensive course on linear algebra, taught at a sophisticated and abstract level.",
+        "extra": "MATH 1553, MATH 1554, and MATH 1564 are equivalent and only one can be taken for credit.\nNote: MATH 4305 cannot be used for credit in the BS MTH degree.",
+        "credit": "4",
+        "offered": "fa21, fa20, fa19, fa18, su18, sp18, fa17",
+        "prereqs": "Score of 5 in AP BC Calculus or A in MATH 1552 or equivalent or permission from Academic Office.",
+        "schedule": "Every Fall",
+        "title": "Linear Algebra with Abstract Vector Spaces"
+    },
+    "MATH 1711": {
+        "description": "Linear equations, matrices, linear programming, sets and counting, probability and statistics.",
+        "extra": "",
+        "credit": "4",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "Math SAT Section Score (new SAT) of 570\u00a0or\u00a0ACT 24 or ACT equivalent 550, or MATH 1113 Precalculus.",
+        "schedule": "Every semester",
+        "title": "Finite Mathematics"
+    },
+    "MATH 1712": {
+        "description": "Functions, the derivative, applications of the derivative, techniques of differentiation, integration, applications of integration to probability and statistics, multidimensional calculus.",
+        "extra": "",
+        "credit": "4",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "Math SAT Section Score (new SAT) of 570\u00a0or\u00a0ACT 24 or ACT equivalent 550, or MATH 1113 Precalculus.",
+        "schedule": "Every Semester",
+        "title": "Survey of Calculus"
+    },
+    "MATH 2106": {
+        "description": "An introduction to proofs in advanced mathematics, intended as a transition to upper division courses including MATH 4107, 4150 and 4317.\u00a0Fundamentals of mathematical abstraction including sets, logic, equivalence relations, and functions. Thorough development of the basic proof techniques: direct, contrapositive, existence, contradiction, and induction. Introduction to proofs in analysis and algebra.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "((MATH 1552 or MATH 15X2 or MATH 1X52) and (MATH 1553 or MATH 1554 or MATH 1564 or MATH 1522 or MATH 1X53))",
+        "schedule": "Fall and Spring semesters",
+        "title": "Foundations of Mathematical Proof"
+    },
+    "MATH 2401": {
+        "description": "Being replaced by MATH 2551. Multivariable calculus: Linear approximation and Taylor's theorems, Lagrange multiples and constrained optimization, multiple integration and vector analysis including the theorems of Green, Gauss and Stokes.",
+        "extra": "New Math Core Fall 2015.",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1502.",
+        "schedule": "Not offered after Summer 2015",
+        "title": "Calculus III"
+    },
+    "MATH 2403": {
+        "description": "Course being replaced by MATH 2552. Methods for obtaining numerical and analytic solutions of elementary differential equations. Applications are also discussed with an emphasis on modeling.",
+        "extra": "\nNew Math Core Fall 2015",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1502",
+        "schedule": "Not offered after Summer 2015",
+        "title": "Differential Equations"
+    },
+    "MATH 2406": {
+        "description": "A thorough development of the theory of linear algebra and an introduction to multilinear algebra, with selected applications.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1502",
+        "schedule": "Not regularly scheduled",
+        "title": "Abstract Vector Spaces"
+    },
+    "MATH 2411": {
+        "description": "The topics covered parallel those of 2401 with a somewhat more intensive and rigorous treatment. Credit is not allowed for both an honors calculus course and the corresponding regular calculus course.",
+        "extra": "",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "You must have a B or higher in MATH 1502 or MATH 1512 to be enrolled in this course. If you are in MATH 1502 or MATH 1512 in the fall term, you may register for this course during Phase I of registration. In December, we will drop any students in 2411 who make C, D or F in 1502 or 1512.",
+        "schedule": "Every spring",
+        "title": "Honors Calculus III"
+    },
+    "MATH 2413": {
+        "description": "Methods for obtaining numerical and analytic solutions of elementary differential equations. Applications are also discussed with an emphasis on modeling.",
+        "extra": "",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "You must have a B or higher in MATH 2401, MATH 2411, or MATH 2605 to take this course.",
+        "schedule": "No regular schedule",
+        "title": "Honors Differential Equations"
+    },
+    "MATH 2550": {
+        "description": "An introduction to multivariable calculus through vectors in 3D, curves, functions of several variables, partial derivatives, min/max problems, multiple integration. Vector Calculus not covered.",
+        "extra": "",
+        "credit": "2",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "schedule": "Every Semester",
+        "title": "Introduction to Multivariable Calculus"
+    },
+    "MATH 2551": {
+        "description": "Linear approximation and Taylor\u2019s theorems, Lagrange multiples and constrained optimization, multiple integration and vector analysis including the theorems of Green, Gauss, and Stokes.",
+        "extra": "Equivalent to MATH 2401.",
+        "credit": "4",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "schedule": "Every Semester",
+        "title": "Multivariable Calculus"
+    },
+    "MATH 2552": {
+        "description": "Methods for obtaining numerical and analytic solutions of elementary differential equations. Applications are also discussed with an emphasis on modeling.",
+        "extra": "Equivalent to MATH 2403.",
+        "credit": "4",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "schedule": "Every Semester",
+        "title": "Differential Equations"
+    },
+    "MATH 2561": {
+        "description": "The topics covered parallel those of MATH 2551 with a somewhat more intensive and rigorous treatment.",
+        "extra": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53)).\nIf you are currently taking the perequisite course in the fall, you may register for this course during Phase I of registration. In December, we will drop any students in MATH 2561 who make C, D or F in the prerequisite course.",
+        "credit": "4",
+        "offered": "sp19, sp18",
+        "prereqs": "Grade at least B in the following:",
+        "schedule": "Usually every Spring Semester",
+        "title": "Honors Multivariable Calculus"
+    },
+    "MATH 2562": {
+        "description": "The topics covered parallel those of MATH 2552 with a somewhat more intensive and rigorous treatment.",
+        "extra": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "credit": "4",
+        "offered": "fa19, fa18, fa17",
+        "prereqs": "Grade at least B in the following:",
+        "schedule": "Usually every Fall Semester",
+        "title": "Honors Differential Equations"
+    },
+    "MATH 2602": {
+        "description": "The course is being replaced in Fall 2015 by the equivalent course MATH 2603, Intro to Discrete Math.\u00a0Mathematical logic and proof, mathematical induction, counting methods, recurrence relations, algorithms and complexity, graph theory and graph algorithms.",
+        "extra": "New Math Core Fall 2015.",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 2401 or MATH 2411",
+        "schedule": "Not offered after Summer 2015",
+        "title": "Linear and Discrete Mathematics"
+    },
+    "MATH 2603": {
+        "description": "Mathematical logic and proof, mathematical induction, counting methods, recurrence relations, algorithms and complexity, graph theory and graph algorithms.",
+        "extra": "This course is equivalent to MATH 2602.",
+        "credit": "4",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 1552 or MATH 1502 or MATH 1512 or MATH 15X2.",
+        "schedule": "Every Semester",
+        "title": "Introduction to Discrete Mathematics"
+    },
+    "MATH 2605": {
+        "description": "Topics in linear algebra and multivariate calculus and their applications in optimization and numerical methods, including curve fitting, interpolation, and numerical differentiation and integration.",
+        "extra": "",
+        "credit": "4",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1502 or MATH 1512 or (Math 15X2 + MATH 1522)",
+        "schedule": "Not regularly scheduled",
+        "title": "Calculus III for Computer Science"
+    },
+    "MATH 2802 LEY": {
+        "description": "Special Topics course offered in Spring 2017 by Anton Leykin. Restricted to CS students with credit for MATH 1553, MATH 1502 or MATH 1522.",
+        "extra": "",
+        "credit": "2",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1553, MATH 1502 or MATH 1522",
+        "schedule": "Not regularly scheduled",
+        "title": "Applications of Linear Algebra"
+    },
+    "MATH 2802-ALG": {
+        "description": "Special Topics course offered in Spring 2017 by TBA. Restricted to CS students with credit for MATH 1553, MATH 1502 or MATH 1522.",
+        "extra": "",
+        "credit": "2",
+        "offered": "sp19, sp18",
+        "prereqs": "MATH 1553, MATH 1502 or MATH 1522",
+        "schedule": "Not currently offered",
+        "title": "Applications of Linear Algebra"
+    },
+    "MATH 3012": {
+        "description": "Elementary combinatorial techniques used in discrete problem solving: counting methods, solving linear recurrences, graph and network models, related algorithms, and combinatorial designs.",
+        "extra": "CS students should complete CS 2050 before taking MATH 3012.",
+        "credit": "3",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "schedule": "Every semester",
+        "title": "Applied Combinatorics"
+    },
+    "MATH 3215": {
+        "description": "This course is a problem oriented introduction to the basic concepts of probability and statistics, providing a foundation for applications and further study.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2551 or MATH 2561 or MATH 2550 or MATH 2X51 or MATH 2605.",
+        "schedule": "Every semester",
+        "title": "Introduction to Probability and Statistics"
+    },
+    "MATH 3225": {
+        "description": "The topics covered parallel those of MATH 3215, with a more rigorous and intensive treatment. Credit is not allowed for both MATH 3215 and 3225.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "You must have B or higher in MATH 2401, MATH 2411, or MATH 2605 or MATH 2551 or MATH 2561 to be enrolled in this course. \u00a0If you are in one of the above courses in the spring or summer term, you may register for MATH 3225 during Phase I of registration. In early August, we will drop any students in 3225 (fall term) who make C, D, or F in 2401, 2411, 2605, 2551 or 2561 in the spring or summer term.",
+        "schedule": "Not currently offered",
+        "title": "Honors Probability and Statistics"
+    },
+    "MATH 3235": {
+        "description": "This course is a mathematical introduction to probability theory, covering random variables, moments, multivariate distributions, law of large numbers, central limit theorem, and large deviations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "(MATH 2551 or MATH 2X51 or MATH 2561 or MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2605 or MATH 2550) AND (MATH 2106 or CS 2051 or MATH 3012)",
+        "schedule": "Fall and Spring Semesters",
+        "title": "Probability Theory"
+    },
+    "MATH 3236": {
+        "description": "This course is an introduction to theoretical statistics for students with a background in probability. A mathematical formalism for inference on experimental data will be developed.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18",
+        "prereqs": "MATH 3235 Introduction to Probability",
+        "schedule": "Spring Semester",
+        "title": "Statistical Theory"
+    },
+    "MATH 3406": {
+        "description": "This course will cover important topics in linear algebra not usually discussed in a first-semester course, featuring a mixture of theory and applications.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "MATH 1553 or MATH 1554 or MATH 1564 or MATH 1502 or MATH 1512 or MATH 1522 or MATH 1X53",
+        "schedule": "Every Spring and Fall Semesters",
+        "title": "A Second Course on Linear Algebra"
+    },
+    "MATH 3670": {
+        "description": "Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression and analysis of variance.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2551 or MATH 2550 or MATH 2X51",
+        "schedule": "Every Semester",
+        "title": "Probability and Statistics with Applications"
+    },
+    "MATH 3770": {
+        "description": "Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression and analysis of variance.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 2401",
+        "schedule": "Not offered any more. Replaced by MATH 3670.",
+        "title": "Statistics and Applications"
+    },
+    "MATH 4012": {
+        "description": "Introduction to linear error correcting codes with an emphasis on the algebraic tools required, including matrices, vector spaces, groups, polynomial rings, and finite fields.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1502",
+        "schedule": "no regular schedule",
+        "title": "Algebraic Structures in Coding Theory"
+    },
+    "MATH 4022": {
+        "description": "The fundamentals of graph theory: trees, connectivity, Euler torus, Hamilton cycles, matchings, colorings and Ramsey theory.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH 3012 or equivalent",
+        "schedule": "Every fall semester",
+        "title": "Introduction to Graph Theory"
+    },
+    "MATH 4032": {
+        "description": "Combinatorial problem-solving techniques including the use of generating functions, recurrence relations, Polya theory, combinatorial designs, Ramsey theory, matroids, and asymptotic analysis.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18",
+        "prereqs": "MATH 3012 or equivalent",
+        "schedule": "Every spring semester",
+        "title": "Combinatorial Analysis"
+    },
+    "MATH 4080": {
+        "description": "The first of a two course sequence of faculty-directed independent research culminating in the writing of a senior thesis and its presentation.",
+        "extra": "",
+        "credit": "2",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "MATH 3012",
+        "schedule": "Every fall and spring semesters",
+        "title": "Senior Project I"
+    },
+    "MATH 4090": {
+        "description": "The second of a two course sequence of faculty-directed independent research culminating in the writing of a senior thesis and its presentation.",
+        "extra": "",
+        "credit": "2",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "MATH 3012",
+        "schedule": "Every fall and spring semesters",
+        "title": "Senior Project II"
+    },
+    "MATH 4107": {
+        "description": "This course develops in the theme of \"Arithmetic congruence, and abstract algebraic structures.\" There will be a very strong emphasis on theory and proofs.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "MATH 2406 or MATH 2106",
+        "schedule": "Every fall and spring semesters",
+        "title": "Abstract Algebra I"
+    },
+    "MATH 4108": {
+        "description": "Continuation of Abstract Algebra I, with emphasis on Galois theory, modules, polynomial fields, and the theory of linear associative algebra.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18",
+        "prereqs": "MATH 4107",
+        "schedule": "Every spring",
+        "title": "Abstract Algebra II"
+    },
+    "MATH 4150": {
+        "description": "Primes and unique factorization, congruences, Chinese remainder theorem, Diophantine equations, Diophantine approximations, quadratic reciprocity. Applications such as fast multiplication, factorization and encryption.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18",
+        "prereqs": "MATH 2406 or MATH 2106 or CS 3510 or CS 3511",
+        "schedule": "Every spring semester",
+        "title": "Introduction to Number Theory"
+    },
+    "MATH 4221": {
+        "description": "Simple random walk and the theory of discrete time Markov chains",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "MATH 3215 or MATH 3225 or MATH 3235 or\u00a0MATH 3670 or MATH 3770 or ISYE 3770 or CEE 3770",
+        "schedule": "Typically every fall semester",
+        "title": "Stochastic Processes I"
+    },
+    "MATH 4222": {
+        "description": "Renewal theory, Poisson processes and continuous time Markov processes, including an introduction to Brownian motion and martingales",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 4221",
+        "schedule": "Not currently offered",
+        "title": "Stochastic Processes II"
+    },
+    "MATH 4255": {
+        "description": "Topics include uniform random number generation, sampling from non-uniform distributions, and applications to stochastic simulation, simulated annealing and genetic algorithms. A review of basic probability and Markov chains makes the course largely self-contained.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 3215 or\u00a0MATH 3225\u00a0or\u00a0MATH 3235 or MATH 3770\u00a0or ISYE 3770 or CEE 3770",
+        "schedule": "no regular schedule",
+        "title": "Monte Carlo Methods"
+    },
+    "MATH 4261": {
+        "description": "Sampling distributions, Normal, t, chi-square and F distributions. Moment generating function methods, Bayesian estimation and introduction to hypothesis testing",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "MATH 3215 or MATH 3225\u00a0or\u00a0MATH 3235\u00a0or\u00a0MATH 3670 or MATH 3770 or ISyE 3770 or CEE 3700",
+        "schedule": "Every fall semester",
+        "title": "Mathematical Statistics I"
+    },
+    "MATH 4262": {
+        "description": "Hypothesis testing, likelihood ratio tests, nonparametric tests, bivariate and multivariate normal distributions",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18",
+        "prereqs": "MATH 4261",
+        "schedule": "Every spring semester",
+        "title": "Mathematical Statistics II"
+    },
+    "MATH 4280": {
+        "description": "The measurement and quantification of information. These ideas are applied to the probabilistic analysis of the transmission of information over a channel along which random distortion of the message occurs.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18",
+        "prereqs": "MATH 3215 or MATH 3225\u00a0or\u00a0MATH 3235\u00a0or\u00a0MATH 3670 or MATH 3770 or ISyE 3770 or CEE 3700",
+        "schedule": "Every spring semester",
+        "title": "Introduction to Information Theory"
+    },
+    "MATH 4305": {
+        "description": "Linear algebra in R^n, standard Euclidean inner product in R^n, general linear spaces, general inner product spaces, least squares, determinants, eigenvalues and eigenvectors, symmetric matrices.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "schedule": "Every semester",
+        "title": "Topics in Linear Algebra"
+    },
+    "MATH 4317": {
+        "description": "Real numbers, topology of Euclidean spaces, Cauchy sequences, completeness, continuity and compactness, uniform continuity, series of functions, Fourier series",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "MATH 2106",
+        "schedule": "Every Spring and Fall semester",
+        "title": "Analysis I"
+    },
+    "MATH 4318": {
+        "description": "Differentiation of functions of one real variable, Riemann-Stieltjes integral, the derivative in R^n and integration in R^n",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "MATH 4317",
+        "schedule": "Spring only starting Spring 2020",
+        "title": "Analysis II"
+    },
+    "MATH 4320": {
+        "description": "Topics from complex function theory, including contour integration and conformal mapping",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17",
+        "prereqs": "MATH 2401 or MATH 24X1 or MATH 2411 or MATH 2551 or MATH 2550 or MATH 2X51",
+        "schedule": "Every spring and fall semester",
+        "title": "Complex Analysis"
+    },
+    "MATH 4347": {
+        "description": "Method of characteristics for first and second order partial differential equations, conservation laws and shocks, classification of second order systems and applications.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "(MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and (MATH 1522 or MATH 1553 or MATH 1554 or MATH 1564 or MATH 1502 or MATH 1512)",
+        "schedule": "Every fall semester",
+        "title": "Partial Differential Equations I"
+    },
+    "MATH 4348": {
+        "description": "Green's functions and fundamental solutions. Potential, diffusion and wave equations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 4347",
+        "schedule": "Not currently offered",
+        "title": "Partial Differential Equations II"
+    },
+    "MATH 4431": {
+        "description": "Point set topology, topological spaces and metric spaces, continuity and compactness, homotopy and covering spaces",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "MATH 4317",
+        "schedule": "Every fall semester",
+        "title": "Introduction to Topology"
+    },
+    "MATH 4432": {
+        "description": "Introduction to algebraic methods in topology. Includes homotopy, the fundamental group, covering spaces, simplicial complexes. Applications to fixed point theory and group theory.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp19",
+        "prereqs": "MATH 4317",
+        "schedule": "Every odd spring semester",
+        "title": "Introduction to Algebraic Topology"
+    },
+    "MATH 4441": {
+        "description": "The theory of curves, surfaces, and more generally, manifolds. Curvature, parallel transport, covariant differentiation, Gauss-Bonet theorem",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51",
+        "schedule": "Every fall semester",
+        "title": "Differential Geometry"
+    },
+    "MATH 4541": {
+        "description": "A broad introduction to the local and global behavior of nonlinear dynamical systems arising from maps and ordinary differential equations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "(MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52) and (MATH 1522 or MATH 1553 or MATH 1554 or MATH 1564 or MATH 1502 or MATH 1512)",
+        "schedule": "Every fall semester",
+        "title": "Dynamics and Bifurcations I"
+    },
+    "MATH 4542": {
+        "description": "A continuation of Dynamics and Bifurcations I",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 4541",
+        "schedule": "Not currently offered",
+        "title": "Dynamics and Bifurcations II"
+    },
+    "MATH 4580": {
+        "description": "A study of the linear programming problem, including the simplex method, duality, and sensitivity analysis with applications to matrix games, integer programming and networks.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp19",
+        "prereqs": "MATH 1502 or MATH 1512 or (MATH 15X2 + MATH 1522)",
+        "schedule": "Every odd spring",
+        "title": "Linear Programming"
+    },
+    "MATH 4581": {
+        "description": "Fourier series, Fourier integrals, boundary value problems for partial differential equations, eigenvalue problems",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, su21, sp21, fa20, su20, sp20, fa19, su19, sp19, fa18, su18, sp18, fa17",
+        "prereqs": "MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or or MATH 2X52",
+        "schedule": "Every semester",
+        "title": "Classical Mathematical Methods in Engineering"
+    },
+    "MATH 4640": {
+        "description": "Introduction to numerical algorithms for some basic problems in computational mathematics. Discussion of both implementation issues and error analysis. Crosslisted with CX 4640 (formerly CS 4642).",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, sp20, sp19, sp18",
+        "prereqs": "MATH 2403 or MATH 2413 or MATH 24X3 or MATH 2552 or MATH 2562 or MATH 2X52 or MATH 2603",
+        "schedule": "Every spring (MATH) and fall (CS)",
+        "title": "Numerical Analysis I"
+    },
+    "MATH 4641": {
+        "description": "Introduction to the numerical solution of initial and boundary value problems in differential equations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 4640",
+        "schedule": "Not currently offered",
+        "title": "Numerical Analysis II"
+    },
+    "MATH 4755": {
+        "description": "Problems from the life sciences and the mathematical methods for solving them are presented. The underlying biological and mathematical principles and the interrelationships are emphasized.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp19",
+        "prereqs": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "schedule": "Every odd spring semester",
+        "title": "Mathematical Biology"
+    },
+    "MATH 4777": {
+        "description": "Scientific computational algorithms on vector and parallel computers. Speedup, algorithm complexity, interprocesses communication, synchronization, modern algorithms for linear systems, programming techniques, code optimization.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1502 OR MATH 1512 OR MATH 1555 OR MATH 1504 ((MATH 1552 OR MATH 15X2 OR MATH 1X52) AND (MATH 1522 OR MATH 1553 OR MATH 1554 OR MATH 1564 OR MATH 1X53))",
+        "schedule": "Not currently offered",
+        "title": "Vector/Parallel Scientific Computing"
+    },
+    "MATH 4782": {
+        "description": "Introduction to quantum computing and quantum information theory, formalism of quantum mechanics, quantum gates, algorithms, measurements, coding, and information. Physical realizations and experiments. Crosslisted with PHYS 4782",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18",
+        "prereqs": "MATH 2401 or MATH 2411 or MATH 24X1 or MATH 2551 or MATH 2561 or MATH 2X51.",
+        "schedule": "Fall semester (by Physics)",
+        "title": "Quantum Information and Quantum Computing"
+    },
+    "MATH 4801 UG": {
+        "description": "Pass/fail basis.\nThis course provides students with a broad exposure to areas of mathematics research through weekly speakers.",
+        "extra": "",
+        "credit": "1",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "MATH 2551, MATH 2550, MATH 2552, MATH 2401, or\u00a0MATH 2411",
+        "schedule": "Every Fall",
+        "title": "Undergraduate Seminar"
+    },
+    "MATH 4802": {
+        "description": "Pass/Fail basis. This course is intended to teach general mathematical problem solving skills, and to prepare students to take the Putnam Examination.",
+        "extra": "",
+        "credit": "2",
+        "offered": "fa21, fa20, fa19, fa18, fa17",
+        "prereqs": "None",
+        "schedule": "Every Fall",
+        "title": "Mathematical Problem Solving"
+    },
+    "MATH 4803 HP": {
+        "description": "Special Topics course for the Honors Program offered in Spring 2017 by Matt Baker. Joint with MATH 2803 QHS, for Video High School students.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 1502 or MATH 1512 or MATH 1504 or MATH 1555 or ((MATH 1552 or MATH 15X2 or MATH 1X52) and (MATH 1553 or MATH 1554 or MATH 1564 or MATH 1522 or MATH 1X53))",
+        "schedule": "Not regularly scheduled",
+        "title": "Number Theory and Cryptography"
+    },
+    "MATH 4803 HP-LEY": {
+        "description": "Special Topics course \"Bridge to Mathematics\" by Anton Leykin, for the Honors Program section and a general section, offered in Fall 2020.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20",
+        "prereqs": "TBA",
+        "schedule": "Not regularly scheduled",
+        "title": "Bridge to Mathematics"
+    },
+    "MATH 4803 LEY - Sp16": {
+        "description": "Special Topics course on Algebraic Computation and its Applications offered by Anton Leykin in Spring 2016.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 2406 or MATH 2106",
+        "schedule": "Not regularly scheduled",
+        "title": "Algebraic Computation and its Applications"
+    },
+    "MATH 4803-HOM": {
+        "description": "Special topics course offered in Spring 2020\u00a0by Jennifer Hom.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp20",
+        "prereqs": "Math 1564 (Linear Algebra with Abstract Vector Spaces) or Math 2106 (Foundations of Mathematical Proof).",
+        "schedule": "Not regularly scheduled",
+        "title": "Knot Theory and Grid Homology"
+    },
+    "MATH 4803-HP-LEY": {
+        "description": "Special topics course offered in Fall 2020 by Anton Leykin for the Honors Program (HP) crosslisted with a general section (LEY), on \"Bridge to Mathematics\"",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20",
+        "prereqs": "Informal prerequisite: some knowledge of discrete mathematics",
+        "schedule": "Not regularly scheduled",
+        "title": "Bridge to Mathematics"
+    },
+    "MATH 4803-LEV": {
+        "description": "Special topics course offered in Fall 2018 by Caitlin Leverson on \"Introduction to Knot Theory\"",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa18",
+        "prereqs": "MATH 1553, MATH 1554, MATH 1564 or permission from the instructor.",
+        "schedule": "Not regularly scheduled",
+        "title": "Introduction to Knot Theory"
+    },
+    "MATH 4803-LIA": {
+        "description": "The lectures will focus on an introduction of modern data science techniques and the foundational mathematical concepts in linear algebra, probability, and basic optimization related with these techniques. Sufficient\u00a0case studies with real-world data sets will be provided to illustrate how to use the learned techniques and how to choose an appropriate model. To gain hands-on experience of analyzing real-world datasets, students will be given programming exercises to practice and improve their programming skills while applying the newly acquired knowledge to those exercises. Homework assignments (assigned during the first 9 weeks) will test\u00a0students'\u00a0ability to generalize the techniques covered in each lecture to different examples. Projects will be assigned in Week 10 and students will work in groups of 3-4. The projects will have weekly milestones in weeks 11-14 culminating in a final presentation and report due at the end of the class.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa19",
+        "prereqs": "Calculus I and II: Math 1551 and Math 1552;\u00a0and Linear algebra, such as 1553 or 1554 or\u00a01564.",
+        "schedule": "Not typically scheduled",
+        "title": "Science Based Data Science"
+    },
+    "MATH 4803-MAR": {
+        "description": "Special topics course on Geometric Group Theory, offered in Spring 2021\u00a0by Dan Margalit.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21",
+        "prereqs": "MATH 4107\u00a0and MATH 2106\u00a0 or permission of instructor",
+        "schedule": "Not regularly scheduled",
+        "title": "Geometric Group Theory"
+    },
+    "MATH 4803-MCC": {
+        "description": "Special topics course on Mathematical Capillarity, offered in Spring 2021\u00a0by John McCuan.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21",
+        "prereqs": "No formal prerequisites are required beyond calculus and ODE\u2019s",
+        "schedule": "Not regularly scheduled",
+        "title": "Mathematical Capillarity"
+    },
+    "MATH 4803-WAN": {
+        "description": "Topics class offered in FALL 2021\u00a0by Zhiyu\u00a0Wang.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21",
+        "prereqs": "Linear algebra and some familiarity with graph theory",
+        "schedule": "Not regularly scheduled",
+        "title": "Spectral Graph Theory"
+    },
+    "MATH 4873": {
+        "description": "This is a 2 week intense course, with lectures in the morning and computational\u00a0lab in the afternoon.\nStudents will be asked to have a laptop with Matlab on it.\n\nThe course will meet in the mornings for lecture, break for\u00a0 lunch, and reconvene\u00a0for the lab in the afternoons.",
+        "extra": "Undergraduate ODE course like Math 2552.",
+        "credit": "3",
+        "offered": "su19",
+        "prereqs": "Rudiments of Matlab.",
+        "schedule": "Not typically scheduled",
+        "title": "Computations in Dynamics"
+    },
+    "MATH 6001": {
+        "description": "This course includes topics on professional development and responsible conduct of research. The course satisfies the GT RCR Academic Policy for Doctoral Students to complete in-person RCR training.",
+        "extra": "",
+        "credit": "2",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "None",
+        "schedule": "Every Fall Semester",
+        "title": "Introduction to Graduate Mathematics"
+    },
+    "MATH 6014": {
+        "description": "Fundamentals, connectivity, matchings, colorings, extremal problems, Ramsey theory, planar graphs, perfect graphs. Applications to operations research and the design of efficient algorithms.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a04022",
+        "schedule": "Every fall semester",
+        "title": "Graph Theory"
+    },
+    "MATH 6112": {
+        "description": "An advanced course in Linear Algebra and applications.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "Undergraduate linear algebra at the level of MATH 4305, and ability to write rigorous proofs at the level of MATH 2106.",
+        "schedule": "Every Fall",
+        "title": "Advanced Linear Algebra"
+    },
+    "MATH 6121": {
+        "description": "Graduate level linear and abstract algebra including groups, rings, modules, and fields. (1st of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a04107 and one of MATH\u00a02406, MATH\u00a04305, or permission of instructor",
+        "schedule": "Every fall semester",
+        "title": "Algebra I"
+    },
+    "MATH 6122": {
+        "description": "Graduate level linear and abstract algebra including rings, fields, modules, some algebraic number theory and Galois theory. (2nd of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH\u00a06121",
+        "schedule": "Every spring semester",
+        "title": "Algebra II"
+    },
+    "MATH 6221": {
+        "description": "Classical introduction to probability theory including expectation, notions of convergence, laws of large numbers, independence, large deviations, conditional expectation, martingales and Markov chains.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21",
+        "prereqs": "MATH 4221 or consent of instructor.",
+        "schedule": "Fall starting Fall 21",
+        "title": "Advanced Classical Probability Theory"
+    },
+    "MATH 6235": {
+        "description": "This is the second of a two-semester sequence that develops basic probability concepts and models for working with financial markets and derivative securities. Continuous-time parameter stochastic processes are emphasized in this course. Mathematical concepts are introduced as needed.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa17",
+        "prereqs": "MATH\u00a02403, MATH\u00a06759",
+        "schedule": "Not regularly scheduled (QCF supported)",
+        "title": "Stochastic Processes in Finance II"
+    },
+    "MATH 6241": {
+        "description": "Develops the probability basis requisite in modern statistical theories and stochastic processes. Topics of this course include measure and integration foundations of probability, distribution functions, convergence concepts, laws of large numbers and central limit theory. (1st of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a06337 or equivalent",
+        "schedule": "Every fall semester",
+        "title": "Probability I"
+    },
+    "MATH 6242": {
+        "description": "Develops the probability basis requisite in modern statistical theories and stochastic processes. (2nd of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH\u00a06241 or equivalent",
+        "schedule": "Every spring semester",
+        "title": "Probability II"
+    },
+    "MATH 6262": {
+        "description": "Basic theories of statistical estimation, including optimal estimation in finite samples and asymptotically optimal estimation. A careful mathematical treatment of the primary techniques of estimation utilized by statisticians.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 4261, MATH 4262 or equivalent and MATH 6241",
+        "schedule": "Every spring semester",
+        "title": "Statistical Estimation"
+    },
+    "MATH 6263": {
+        "description": "Basic theories of testing statistical hypotheses, including a thorough treatment of testing in exponential class families. A careful mathematical treatment of the primary techniques of hypothesis testing utilized by statisticians.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH 4261, MATH 4262 or equivalent, MATH 6241 and MATH 6262",
+        "schedule": "Every fall semester",
+        "title": "Testing Statistical Hypotheses"
+    },
+    "MATH 6266": {
+        "description": "Basic unifying theory underlying techniques of regression, analysis of variance and covariance, from a geometric point of view. Modern computational capabilities are exploited fully. Students apply the theory to real data through canned and coded programs.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a04261, MATH\u00a04262 or equivalent and MATH\u00a06241",
+        "schedule": "Every fall semester",
+        "title": "Linear Statistical Models"
+    },
+    "MATH 6267": {
+        "description": "Multivariate normal distribution theory, correlation and dependence analysis, regression and prediction, dimension-reduction methods, sampling distributions and related inference problems, selected applications in classification theory, multivariate process control, and pattern recognition.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp20, sp18, sp17, sp16",
+        "prereqs": "MATH\u00a04261, MATH\u00a04262 or equivalent and MATH\u00a06241",
+        "schedule": "Every even spring semester",
+        "title": "Multivariate Statistical Analysis"
+    },
+    "MATH 6300": {
+        "description": "Hausdorff dimension, box counting dimension, iterated function systems, continued fractions, number theory, Julia sets.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 6337",
+        "schedule": "Alternate years",
+        "title": "Fractal Geometry"
+    },
+    "MATH 6307": {
+        "description": "This sequence develops the qualitative theory for systems of ordinary differential equations. Topics include stability, Lyapunov functions, Floquet theory, attractors, invariant manifolds, bifurcation theory, normal forms. (1st of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH 4541\u00a0and MATH\u00a04542 or permission of the instructor",
+        "schedule": "Every fall semester",
+        "title": "Ordinary Differential Equations I"
+    },
+    "MATH 6308": {
+        "description": "This sequence develops the qualitative theory for systems of differential equations. Topics include stability, Lyapunov functions, Floquet theory, attractors, invariant manifolds, bifurcation theory, and normal forms. (2nd of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 6307",
+        "schedule": "Every spring semester",
+        "title": "Ordinary Differential Equations II"
+    },
+    "MATH 6321": {
+        "description": "Complex integration, including Goursat's theorem; classification of singularities, the argument principle, the maximum principle; Riemann Mapping theorem; analytic continuation and Riemann surfaces; range of an analytic function, including Picard's theorem.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 4317 and MATH 4320 or equivalent",
+        "schedule": "Every spring semester",
+        "title": "Complex Analysis"
+    },
+    "MATH 6337": {
+        "description": "Measure and integration theory",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, fa20, sp20, fa19, sp19, fa18, sp18, fa17, sp17, fa16, sp16",
+        "prereqs": "MATH\u00a04318 or consent of the School",
+        "schedule": "Every spring and fall semesters",
+        "title": "Real Analysis I"
+    },
+    "MATH 6338": {
+        "description": "Topics include L^p, Banach and Hilbert spaces, basic functional analysis.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, su18, sp18, su17, sp17, su16, sp16",
+        "prereqs": "MATH 4318 or consent of the school",
+        "schedule": "Every spring and some summer semesters",
+        "title": "Real Analysis II"
+    },
+    "MATH 6341": {
+        "description": "Introduction to the mathematical theory of partial differential equations covering the basic linear models of science and exact solution techniques.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a04318",
+        "schedule": "Every fall semester",
+        "title": "Partial Differential Equations I"
+    },
+    "MATH 6342": {
+        "description": "This course covers the general mathematical theory of linear stationary and evolution problems plus selected topics chosen on the instructor's interests.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH\u00a06341",
+        "schedule": "Every spring semester",
+        "title": "Partial Differential Equations II"
+    },
+    "MATH 6421": {
+        "description": "The study of zero sets of polynomials: algebraic varieties, regular and rational map, and the Zariski topology.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa19, fa17",
+        "prereqs": "MATH 4107 or equivalent",
+        "schedule": "Every odd fall",
+        "title": "Algebraic Geometry I"
+    },
+    "MATH 6422": {
+        "description": "Continuation of MATH\u00a06421.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp20, sp18, sp16",
+        "prereqs": "MATH\u00a06421",
+        "schedule": "Every even spring",
+        "title": "Algebraic Geometry II"
+    },
+    "MATH 6441": {
+        "description": "The fundamental group, covering spaces, core topics in homology and cohomology theory including CW complexes, universal coefficients, and Poincare duality.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH\u00a04107, MATH\u00a04317\u00a0or\u00a0MATH\u00a04431, or consent of instructor",
+        "schedule": "Every Spring Semester",
+        "title": "Algebraic Topology I"
+    },
+    "MATH 6442": {
+        "description": "Advanced topics from algebraic topology.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH\u00a06441 or equivalent or consent of instructor",
+        "schedule": "No regular schedule",
+        "title": "Algebraic Topology II"
+    },
+    "MATH 6451": {
+        "description": "Introduction to topological and metric spaces. Continuity, compactness, convergence, completion. Product and quotient spaces. Elementary homotopy.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 4317 or MATH 4431",
+        "schedule": "no regular schedule",
+        "title": "General Topology"
+    },
+    "MATH 6452": {
+        "description": "The differential topology of smooth manifolds.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH 4431",
+        "schedule": "Every Fall Semester",
+        "title": "Differential Topology"
+    },
+    "MATH 6453": {
+        "description": "Continuation of MATH 6452, complementary to MATH 6441, MATH 6442, MATH 6455, MATH 6456, MATH 6421, MATH 6422.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH\u00a06425 or MATH\u00a06441 or MATH\u00a06455",
+        "schedule": "No regular schedule",
+        "title": "Geometric Topology"
+    },
+    "MATH 6455": {
+        "description": "Core topics in differential and Riemannian geometry including Lie groups, curvature, relations with topology.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH\u00a04441 or MATH\u00a06452 or permission of the instructor.",
+        "schedule": "Every Spring Semester",
+        "title": "Differential Geometry I"
+    },
+    "MATH 6514": {
+        "description": "Applied mathematics techniques to solve real-world problems. Topics include mathematical modeling, asymptotic analysis, differential equations and scientific computation. Prepares the student for MATH 6515. (1st of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a02403 or MATH\u00a02602, MATH\u00a04640",
+        "schedule": "Every fall semester",
+        "title": "Industrial Mathematics I"
+    },
+    "MATH 6515": {
+        "description": "Applications of mathematical techniques from MATH 6514 to solve real-world problems. Group projects to solve industrial problems in topics chosen by the instructor. (2nd of two courses)",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH\u00a06514",
+        "schedule": "Not currently offered",
+        "title": "Industrial Mathematics II"
+    },
+    "MATH 6580": {
+        "description": "Geometry, convergence, and structure of linear operators in infinite dimensional spaces. Applications to science and engineering, including integral equations and ordinary and partial differential equations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, su18, fa17, su17, fa16, su16",
+        "prereqs": "MATH 2403 and one of MATH 2406, MATH 4305",
+        "schedule": "Every fall semester and some summers",
+        "title": "Introduction to Hilbert Spaces"
+    },
+    "MATH 6583": {
+        "description": "Volterra and Fredholm linear integral equations, relation to differential equations, solution methods, Fourier, Laplace and Mellin transforms, applications to boundary value problems and integral equations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH\u00a06701 or MATH\u00a02403 and one of MATH\u00a02406 or MATH\u00a04305",
+        "schedule": "Not currently offered",
+        "title": "Integral Equations and Transforms"
+    },
+    "MATH 6635": {
+        "description": "This course contains the basic numerical and simulation techniques for the pricing of derivative securities.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 2403 and MATH 3215 (or the equivalent), knowledge of computer programming, and MS QCF standing or some previous exposure to the topics of stocks, bonds and options.",
+        "schedule": "Every spring semester",
+        "title": "Numerical Methods in Finance"
+    },
+    "MATH 6640": {
+        "description": "Introduction to the implementation and analysis of numerical algorithms for the numerical solution of the classic partial differential equations of science and engineering.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a04347\u00a0and MATH\u00a04640",
+        "schedule": "Every fall semester",
+        "title": "Introduction to Numerical Methods for Partial Differential Equations"
+    },
+    "MATH 6641": {
+        "description": "Analysis and implementation of numerical methods for nonlinear partial differential equations including elliptic, hyperbolic, and/or parabolic problems.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp20, sp18, sp16",
+        "prereqs": "MATH\u00a06640",
+        "schedule": "Every even spring",
+        "title": "Advanced Numerical Methods for Partial Differential Equations"
+    },
+    "MATH 6643": {
+        "description": "Introduction to the numerical solution of the classic problems of linear algebra including linear systems, least squares, SVD, eigenvalue problems. Crosslisted with CSE 6643.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a02406 or MATH\u00a04305 or consent of School",
+        "schedule": "Every fall (MATH) and spring (CSE)",
+        "title": "Numerical Linear Algebra"
+    },
+    "MATH 6644": {
+        "description": "Iterative methods for linear and nonlinear systems of equations including Jacobi, G-S, SOR, CG, multigrid, fixed point methods, Newton quasi-Newton, updating, gradient methods. Crosslisted with CSE 6644.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 2406 or MATH 4305 or consent of School",
+        "schedule": "Every spring (MATH) and fall (CSE)",
+        "title": "Iterative Methods for Systems of Equations"
+    },
+    "MATH 6645": {
+        "description": "Theoretical and computational aspects of polynomial, rational, trigonometric, spline and wavelet approximation.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp19, sp17",
+        "prereqs": "MATH 4317 and MATH 4640",
+        "schedule": "Every odd spring",
+        "title": "Numerical Approximation Theory"
+    },
+    "MATH 6646": {
+        "description": "Analysis and implementation of numerical methods for initial and two point boundary value problems for ordinary differential equations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp20, sp18, sp16",
+        "prereqs": "MATH\u00a02403 and MATH\u00a04640",
+        "schedule": "Every even spring semester",
+        "title": "Numerical Methods for Ordinary Differential Equations"
+    },
+    "MATH 6647": {
+        "description": "Approximation of the dynamical structure of a differential equation and preservation of dynamical structure under discretization.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp19, sp17",
+        "prereqs": "MATH\u00a04640 and MATH\u00a04641",
+        "schedule": "Every odd spring semester",
+        "title": "Numerical Methods for Dynamical Systems"
+    },
+    "MATH 6701": {
+        "description": "Review of linear algebra and ordinary differential equations, brief introduction to functions of a complex variable.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, su21, fa20, su20, fa19, su19, fa18, su18, fa17, su17, fa16, su16",
+        "prereqs": "MATH 2406 or MATH 4305, and MATH 2403",
+        "schedule": "Every summer and fall semesters",
+        "title": "Math Methods of Applied Sciences I"
+    },
+    "MATH 6702": {
+        "description": "Review of vector calculus and and its application to partial differential equations.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH\u00a06701, or MATH\u00a02403 and one of MATH 2406, MATH\u00a04305",
+        "schedule": "Every spring semester",
+        "title": "Math Methods of Applied Sciences II"
+    },
+    "MATH 6705": {
+        "description": "Mathematical methods for solving problems in the life sciences. Models-based course on basic facts from the theory of ordinary differential equations and numerical methods of their solution. Introduction to the control theory, diffusion theory, maximization, minimization and curve fitting.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "RESTRICTED to biology, bioinformatics, biomedical engineering, bioengineering, and chemistry students. Graduate students in other majors cannot take this course. Math majors may not use this course toward any degree in the School of Mathematics.",
+        "schedule": "Usually Every fall semester",
+        "title": "Modeling and Dynamics"
+    },
+    "MATH 6759": {
+        "description": "Mathematical modeling of financial markets, derivative securities pricing, and portfolio optimization. Concepts from probability and mathematics are introduced as needed. Crosslisted with ISYE 6759.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH 3215 and some knowledge of computer programming",
+        "schedule": "Every fall semester (ISyE)",
+        "title": "Stochastic Processes in Finance I"
+    },
+    "MATH 6761": {
+        "description": "Discrete time Markov chains, Poisson processes and renewal processes. Transient and limiting behavior. Average cost and utility measures of systems. Algorithm for computing performance measures. Modeling of inventories, and flows in manufacturing and computer networks. (Also listed as ISyE 6761)",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH\u00a03215 or equivalent",
+        "schedule": "Every fall semester",
+        "title": "Stochastic Processes I"
+    },
+    "MATH 6762": {
+        "description": "Continuous time Markov chains. Uniformization, transient and limiting behavior. Brownian motion and martingales. Optional sampling and convergence. Modeling of inventories, finance, flows in manufacturing and computer networks. (Also listed as ISyE 6762)",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 6761",
+        "schedule": "Every spring semester",
+        "title": "Stochastic Processes II"
+    },
+    "MATH 6767": {
+        "description": "Introduction to large scale-system design to support computational finance for options, stocks, or other instruments.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH XXXX",
+        "schedule": "Every fall semester",
+        "title": "Design and Implementation of Systems to Support Computational Finance"
+    },
+    "MATH 6769": {
+        "description": "Description, institutional features, and mathematical modeling of fixed income securities. Use of both deterministic and stochastic models. Crosslisted with ISYE 6769.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 3215 and (MGT 6060 or MGT 6078)",
+        "schedule": "Every spring semester",
+        "title": "Fixed Income Securities"
+    },
+    "MATH 6781": {
+        "description": "Reliability systems and related distributions, failure rate functions and nonparametric classes, accelerated life testing, dependent failure analysis, statistical inference of reliability data. (Also listed as ISyE 6781)",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 3215 or equivalent",
+        "schedule": "Last offered in 2014",
+        "title": "Reliability Theory"
+    },
+    "MATH 6783": {
+        "description": "Fundamentals of statistical inference are presented and developed for models used in the modern analysis of financial data. Techniques are motivated by examples and developed in the context of applications. Crosslisted with ISYE 6783.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 3215 (or equivalent), some knowledge of programming, and MS QCF standing or some previous exposure to the topics of stocks, bonds and options",
+        "schedule": "Every spring semester",
+        "title": "Statistical Techniques of Financial Data Analysis"
+    },
+    "MATH 6785": {
+        "description": "Case studies, visiting lecturers from financial institutions, student group projects of an advanced nature, and student reports, all centered around quantitative and computational finance. Crosslisted with ISYE and MGT 6785.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MS QCF major or consent of the instructor",
+        "schedule": "Every fall semester",
+        "title": "The Practice of Quantitative and Computational Finance"
+    },
+    "MATH 7012": {
+        "description": "Fundamental methods of enumeration and asymptotic analysis, including the use of inclusion/exclusion, generating functions, and recurrence relations. Applications to strings over a finite alphabet and graphs.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20, fa17",
+        "prereqs": "MATH 4032 or permission of instructor",
+        "schedule": "Usually every odd Fall",
+        "title": "Enumerative Combinatorics"
+    },
+    "MATH 7014": {
+        "description": "Selection of topics vary with each offering.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp19, sp18, sp17, sp16",
+        "prereqs": "None",
+        "schedule": "Usually every spring semester",
+        "title": "Advanced Graph Theory"
+    },
+    "MATH 7016": {
+        "description": "Fundamental combinatorial structures including hypergraphs, transversal sets, colorings, Sperner families, intersecting families, packings and coverings, perfect graphs, and Ramsey theory. Algebraic and topological methods, applications.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 4022 or consent of the School",
+        "schedule": "Not currently offered",
+        "title": "Combinatorics"
+    },
+    "MATH 7018": {
+        "description": "Applications of probabilistic techniques in discrete mathematics, including classical ideas using expectation and variance as well as modern tools, such as martingale and correlation inequalities.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 4022 and MATH 6221 or consent of School",
+        "schedule": "Every Spring Semester",
+        "title": "Probabilistic Methods in Combinatorics"
+    },
+    "MATH 7244": {
+        "description": "An introduction to the Ito stochastic calculus and stochastic differential equations through a development of continuous-time martingales and Markov processes. (1st of two courses in sequence)",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa20, fa19, fa18, fa17, fa16",
+        "prereqs": "MATH 6242 or equivalent",
+        "schedule": "Every fall semester",
+        "title": "Stochastic Processes and Stochastic Calculus I"
+    },
+    "MATH 7245": {
+        "description": "An introduction to the Ito stochastic calculus and stochastic differential equations through a development of continuous-time martingales and Markov processes. (2nd of two courses in sequence)",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp20, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 7244 or equivalent",
+        "schedule": "Every spring semester",
+        "title": "Stochastic Processes and Stochastic Calculus II"
+    },
+    "MATH 7251": {
+        "description": "The goal of this PhD level graduate course is to provide a rigorous introduction to the methods of high-dimensional probability.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21",
+        "prereqs": "MATH 6241",
+        "schedule": "Every Spring starting Sp 2021",
+        "title": "High-dimensional probability"
+    },
+    "MATH 7252": {
+        "description": "The goal of this PhD level graduate course is to provide a rigorous introduction to concepts and methods of high-dimensional statistics\nhaving numerous applications in machine learning, data science and signal processing.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21",
+        "prereqs": "MATH 6241,\u00a0MATH 7251",
+        "schedule": "Starting Fa 21 every Fall",
+        "title": "High-Dimensional Statistics"
+    },
+    "MATH 7334": {
+        "description": "Theory of linear operators on Hilbert space; spectral theory of bounded and unbounded operators; applications",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21, sp19, sp18, sp17, sp16",
+        "prereqs": "MATH 6337",
+        "schedule": "Usually every spring semester",
+        "title": "Introduction to Operator Theory"
+    },
+    "MATH 7337": {
+        "description": "Fourier analysis in Euclidean space. Basic topics including L^1 and L^2 theory; advanced topics such as distribution theory, uncertainty, Littlewood-Paley theory",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21, fa19, fa17",
+        "prereqs": "MATH 6337",
+        "schedule": "Every odd fall semester",
+        "title": "Harmonic Analysis"
+    },
+    "MATH 7338": {
+        "description": "Topics include the Hahn-Banach theorems, the Baire Category theorem and its consequences, duality in Banach spaces, locally convex spaces, additional topics.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20, fa18, fa16",
+        "prereqs": "MATH 6337 or MATH 6338",
+        "schedule": "Every even fall semester",
+        "title": "Functional Analysis"
+    },
+    "MATH 7510": {
+        "description": "Algorithms for graph problems such as maximum flow, matching, network reliability, minimum cuts, covering, coloring, planarity, shortest paths, and connectivity. Crosslisted with CS 7510 and ISYE 7510.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa19",
+        "prereqs": "CS6505 or CS6550",
+        "schedule": "Not regularly scheduled",
+        "title": "Graph Algorithms"
+    },
+    "MATH 7581": {
+        "description": "Minimization of functionals, Euler Lagrange equations, sufficient conditions for a minimum, geodesic, isoperimetric and time of transit problems, variational principles of mechanics, applications to control theory.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp20, sp18, sp16",
+        "prereqs": "MATH 4317 or equivalent",
+        "schedule": "Every even spring",
+        "title": "Calculus of Variations"
+    },
+    "MATH 7586": {
+        "description": "Review of linear algebra, multilinear algebra, algebra of tensors, co- and cotravariant tensors, tensors in Riemann spaces, geometrical interpretation of skew tensors.",
+        "extra": "",
+        "credit": "3",
+        "offered": "Not currently offered",
+        "prereqs": "MATH 2403 and either MATH 2406 or MATH 4305",
+        "schedule": "no regular schedule",
+        "title": "Tensor Analysis"
+    },
+    "MATH 8801": {
+        "description": "Seminar series in which different groups within the College of Sciences will give\u00a0talks about how their research\nrelates to data sciences and machine learning.",
+        "extra": "",
+        "credit": "1",
+        "offered": "fa21",
+        "prereqs": "None.",
+        "schedule": "Not regularly scheduled",
+        "title": "Seminar in Data Sciences"
+    },
+    "MATH 8801-BUR": {
+        "description": "Special topics course on The Academic and Industry Job Search in Mathematics offered in Fall 2018 by Morag Burke.",
+        "extra": "",
+        "credit": "1",
+        "offered": "fa18",
+        "prereqs": "This course is\u00a0for international PhD students in Math who are nearing the completion of their degree, and are preparing to go on the job market.",
+        "schedule": "Not regularly scheduled",
+        "title": "The Academic and Industry Job Search in Mathematics"
+    },
+    "MATH 8803 HOU": {
+        "description": "Special Topics course offered in Spring 2017 by Christian Houdre.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp17",
+        "prereqs": "Strong knowledge of Probability Theory at the level of\u00a0MATH 7244",
+        "schedule": "no regular schedule",
+        "title": "Asymptotics in Sequence Comparison"
+    },
+    "MATH 8803 POP": {
+        "description": "Special topics on Introduction to Random Matrices offered in Spring 2016 by Ionel Popescu.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp16",
+        "prereqs": "MATH XXXX",
+        "schedule": "no regular schedule",
+        "title": "Introduction to Random Matrices"
+    },
+    "MATH 8803 TAO": {
+        "description": "Special topics on Applied Stochastic Dynamics offered in Spring 2016 by Molei Tao.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp16",
+        "prereqs": "MATH 2552, MATH 4347, MATH 3215",
+        "schedule": "no regular schedule",
+        "title": "Applied Stochastic Dynamics"
+    },
+    "MATH 8803-BAK": {
+        "description": "Special topics course on Topics in Matroid Theory, offered in Fall 2020 by Matt Baker.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20",
+        "prereqs": "MATH 6121\u00a0. Some background in graph theory, at the level of MATH 6014, would also be helpful.",
+        "schedule": "Not regularly scheduled",
+        "title": "Topics in Matroid Theory"
+    },
+    "MATH 8803-BEA": {
+        "description": "Special topics course on Algebraic Topology, offered in Fall 2020 by Jonathan Beardsley.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20",
+        "prereqs": "MATH 6441",
+        "schedule": "Not regularly scheduled",
+        "title": "Topics in Algebraic Topology"
+    },
+    "MATH 8803-BER": {
+        "description": "Topics class offered in FALL 2021\u00a0by Anton Bernshteyn.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21",
+        "prereqs": "Knowledge of the fundamentals of graph theory will be assumed, as well as some basic familiarity with measure theory and point-set topology (although the necessary background from these areas will be reviewed in the course). No prior knowledge of descriptive set theory is required.",
+        "schedule": "Not regularly scheduled",
+        "title": "Descriptive Combinatorics"
+    },
+    "MATH 8803-BLO": {
+        "description": "Special topics course on Topological Quantum Computing/Quantum Representations, offered in Spring 2021\u00a0by Wade Bloomquist.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21",
+        "prereqs": "An effort will be made to make this course accessible to as broad of an audience as possible. The following topics could be considered a rough list of prerequisite concepts:Topology of surfaces (for example isotopy of curves); Group theory; Linear algebra",
+        "schedule": "Not regularly scheduled",
+        "title": "Introduction to Topological Quantum Computing/Quantum Representations"
+    },
+    "MATH 8803-BUR": {
+        "description": "Special topics course on The Academic and Industry Job Search offered in Fall 2017 by Morag Burke.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa17",
+        "prereqs": "None",
+        "schedule": "Not regularly scheduled",
+        "title": "The Academic and Industry Job Search"
+    },
+    "MATH 8803-DAM": {
+        "description": "Special Topics course offered in Fall 2020\u00a0by Michael\u00a0Damron.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20",
+        "prereqs": "MATH 6241\u00a0,\u00a0MATH 6242",
+        "schedule": "Not regularly scheduled",
+        "title": "Percolation Models"
+    },
+    "MATH 8803-ETN": {
+        "description": "Topics class offered in FALL 2021\u00a0by John\u00a0Etnyre.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21",
+        "prereqs": "MATH 6452,\u00a0MATH 6441\u00a0(though students without these courses still might be able to take the course-- they should talk to Dr. Etnyre about it).",
+        "schedule": "Not regularly scheduled",
+        "title": "The topology of 3-manifolds"
+    },
+    "MATH 8803-FAT": {
+        "description": "None.",
+        "extra": "",
+        "credit": "0",
+        "offered": "sp19",
+        "prereqs": "Math 6337 (Real Analysis I) Math 6338 (Real Analysis II)\u00a0 Math Ordinary Differential Equations I",
+        "schedule": "Not typically scheduled",
+        "title": "Weak KAM Theorem: Lagrangian Dynamics and viscosity solutions of PDEs"
+    },
+    "MATH 8803-GHO": {
+        "description": "None.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa19",
+        "prereqs": "Interest in geometry or its potential applications, together with mathematical maturity at the level of a beginning math grad student. There will be no specific course requirements; however, some familiarity with differential geometry (e.g., Math 6455) or manifold theory (e.g., Math 6452) could be helpful. Advanced undergraduate students with some knowledge of classical differential geometry of curves and surfaces (e.g., Math 4441) may also take this class.",
+        "schedule": "Not typically scheduled",
+        "title": "Isometric Embeddings"
+    },
+    "MATH 8803-HEI": {
+        "description": "Topics class offered in Spring 2020 by Christine Heitsch.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp20",
+        "prereqs": "This class is aimed at Graduate students in bioinformatics, biomedical engineering, bioengineering, and quantitative biosciences (except those in SoM).",
+        "schedule": "Not regularly scheduled",
+        "title": "Fundamentals of Discrete Mathematical Biology"
+    },
+    "MATH 8803-HOM": {
+        "description": "Special topics course on Introduction to Heegaard Floer homology offered in Fall 2017 by Jennifer Hom.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa17",
+        "prereqs": "MATH 6441, Algebraic Topology I",
+        "schedule": "Not regularly scheduled",
+        "title": "Introduction to Heegaard Floer homology"
+    },
+    "MATH 8803-KOL": {
+        "description": "None.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp19",
+        "prereqs": "An\u00a0advanced probability course (ideally, at the level 6241)",
+        "schedule": "Not typically scheduled",
+        "title": "Topics in High-Dimensional Statistics"
+    },
+    "MATH 8803-LAC": {
+        "description": "Special topics course on Mathematical Introduction to Compressive Sensing, by Michael Lacey, offered Fall 2016.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa16",
+        "prereqs": "MATH 4305 and familiarity with Gaussian random variables and stochastic processes",
+        "schedule": "no regular schedule",
+        "title": "Mathematical Introduction to Compressive Sensing"
+    },
+    "MATH 8803-LAM": {
+        "description": "Special Topics course offered in Spring 2018 by Peter Lambert-Cole on \"4-Manifolds\".",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp18",
+        "prereqs": "MATH 6441",
+        "schedule": "Not regularly scheduled",
+        "title": "4-manifolds"
+    },
+    "MATH 8803-LIN": {
+        "description": "Special topics course offered in Fall 2018 by Zhiwu Lin on \"Dynamics of Hamiltonian PDEs.\"",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa18",
+        "prereqs": "TBA",
+        "schedule": "Not typically scheduled",
+        "title": "Dynamics of Hamiltonian PDEs"
+    },
+    "MATH 8803-LIV": {
+        "description": "Special topics course on \"High-dimensional geometry and probability\" offered in Spring 2018 by Galyna Livshyts.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp18",
+        "prereqs": "No prerequisites aside from Calculus I-III and an introduction to undergraduate Probability Theory",
+        "schedule": "Not regularly scheduled",
+        "title": "High-dimensional geometry and probability"
+    },
+    "MATH 8803-LUB": {
+        "description": "Special topics course on Potential Theory offered by Doron Lubinsky in Fall 2016",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa16",
+        "prereqs": "MATH 6337",
+        "schedule": "no regular schedule",
+        "title": "Potential Theory"
+    },
+    "MATH 8803-MAR": {
+        "description": "Special topics course on Mapping Class Groups, offered in Fall 2020 by Dan Margalit.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa20",
+        "prereqs": "MATH 6121,\u00a0MATH 6441",
+        "schedule": "Not regularly scheduled",
+        "title": "Mapping Class Groups"
+    },
+    "MATH 8803-MAT": {
+        "description": "Special topics course offered in Spring 2018 by Henry Matzinger on \"Big matrices and real life machine learning applied problems\"",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp18",
+        "prereqs": "TBA",
+        "schedule": "Not regularly scheduled",
+        "title": "Big matrices and real life machine learning applied\u00a0 problems"
+    },
+    "MATH 8803-MCC": {
+        "description": "Special topics course on Mathematical Capillarity, offered in Spring 2021\u00a0by John McCuan.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp21",
+        "prereqs": "No formal prerequisites are required beyond calculus and ODE\u2019s",
+        "schedule": "Not regularly scheduled",
+        "title": "Mathematical Capillarity"
+    },
+    "MATH 8803-PHD": {
+        "description": "Pass/Fail only. A course for graduate students in Mathematics to help prepare for the written comprehensive exams in Algebra and Analysis. Offered Summer 2017.\nIn 2017, the course was split into two sections: MATH 8802 ALG and MATH 8802 ANA.",
+        "extra": "",
+        "credit": "3",
+        "offered": "su17, su18, su19",
+        "prereqs": "Knowledge of Abstract Algebra and/or Real Analysis at the level of our\u00a0graduate coursework. Restricted to Graduate students in Mathematics.",
+        "schedule": "Every summer",
+        "title": "Mathematics Written Comps Preparatory Class"
+    },
+    "MATH 8803-RAE": {
+        "description": "Special topics course offered in Summer 2018 by Christopher Heil and Shahaf Nitzan on \"Real Analysis for Engineers\".\nThis course can be taken in place of MATH 6337, Real Analysis, to satisfy the prerequisite for MATH 6241, Probability I.\nThis course cannot be used for credit at the same time as MATH 6337.",
+        "extra": "",
+        "credit": "3",
+        "offered": "su18",
+        "prereqs": "MATH 4317",
+        "schedule": "Not regularly scheduled",
+        "title": "Real Analysis for Engineers"
+    },
+    "MATH 8803-ROL": {
+        "description": "Special Topics course offered in Spring 2018 by Larry Rolen on \"Modular Forms: Theory and Applications\"",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp18",
+        "prereqs": "MATH 4320 Complex Analysis",
+        "schedule": "Not regularly scheduled",
+        "title": "Modular Forms: Theory and Applications"
+    },
+    "MATH 8803-SIN": {
+        "description": "Special topics course on Algebraic Curves, offered in Fall 2016 by Rainer Sinn.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa16",
+        "prereqs": "MATH 6121",
+        "schedule": "no regular schedule",
+        "title": "Algebraic Curves"
+    },
+    "MATH 8803-STR": {
+        "description": "None.",
+        "extra": "",
+        "credit": "3",
+        "offered": "sp19",
+        "prereqs": "Differential topology (Math 6452) or permission of the instructor. Familiarity with some basics (Riemannian metrics and geodesics) from Differential Geometry I (Math 6455) is also recommended.",
+        "schedule": "Not typically scheduled",
+        "title": "Geometric structures on surfaces"
+    },
+    "MATH 8803-WAN": {
+        "description": "Topics class offered in FALL 2021\u00a0by Zhiyu\u00a0Wang.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa21",
+        "prereqs": "Linear algebra and some familiarity with graph theory",
+        "schedule": "Not regularly scheduled",
+        "title": "Spectral Graph Theory"
+    },
+    "MATH 8803-WAR": {
+        "description": "Special topics\u00a0 course on Random Discrete Structures, offered in Fall 2017 by Lutz Warnke.",
+        "extra": "",
+        "credit": "3",
+        "offered": "fa17",
+        "prereqs": "Math 6221 (Advanced Classical Probability Theory) or Math 7018 (Probabilistic Methods in Combinatorics) or Math 6241 (Probability I).",
+        "schedule": "Not regularly scheduled",
+        "title": "Random Discrete Structures"
+    },
+    "MATH 8873": {
+        "description": "This is a 2 week intense course, with lectures in the morning and computational\u00a0lab in the afternoon.\nStudents will be asked to have a laptop with\u00a0Matlab\u00a0on it.\n\nThe course will meet in the mornings for lecture, break for\u00a0 lunch, and reconvene\u00a0for the lab in the afternoons.",
+        "extra": "Undergraduate ODE course like Math 2552.",
+        "credit": "3",
+        "offered": "su19",
+        "prereqs": "Rudiments of\u00a0Matlab.",
+        "schedule": "Not typically scheduled",
+        "title": "Computations in Dynamics"
     }
 }

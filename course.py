@@ -8,7 +8,7 @@ class Course:
     """ Represents a course at Georgia Tech. """
 
     def __init__(self, department: str, cid: str) -> None:
-        self.department, self.cid = department, cid
+        self.department, self.cid = department.upper(), cid
         self.undergrad = int(cid[0]) < 5
 
     def __eq__(self, other: "Course") -> bool:
@@ -63,7 +63,9 @@ def load_file(fname: Union[str, None]) -> list:
 
 def to_course(raw: str) -> Course:
     """ Converts raw course registration data into Course objects. """
-    return Course(*raw.split()[3:5])
+    tokens = raw.split()
+    args = tokens[3:5] if len(tokens) > 2 else tokens
+    return Course(*args)
 
 def prune(tree: Term) -> Term:
     """ Prunes the given tree by union'ing classes in an or. """
@@ -71,9 +73,16 @@ def prune(tree: Term) -> Term:
     return tree if isinstance(tree, Term) else \
         Term(course_prune, parse.Term("and", [tree]))
 
-def parse_prereq(s: str, course_prune: list) -> Term:
+def __parse_prereq(s: str, course_prune: list) -> Term:
     """ Parses the prerequisite string into a Term tree. """
     return prune(Term(course_prune, parse.parse(s))) if len(s) != 0 else None
+
+def parse_prereq(s: str, course_prune: list) -> Term:
+    """ Parses the prerequisite string into a Term tree. """
+    try:
+        return __parse_prereq(s.lower(), course_prune)
+    except (TypeError, ValueError):
+        return
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Course prerequisite parser")

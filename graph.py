@@ -202,7 +202,9 @@ if __name__ == "__main__":
     undirected = {course: [] for course in courses}
     for course in sorted(courses):
         # skip graduate courses
-        if args.undergrad and not cs.Course(*course.split()).undergrad:
+        tokens = course.split()
+        department, cid = tokens[0], " ".join(tokens[1])
+        if args.undergrad and not cs.Course(department, cid).undergrad:
             continue
         for child in (trees[course] if trees[course] is not None else []):
             if child in courses:

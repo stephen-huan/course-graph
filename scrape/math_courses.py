@@ -6,7 +6,7 @@ from requests_html import HTMLSession
 OUT = "data/courses.json"
 # URLs to scrape
 URLS = [
-    # "https://math.gatech.edu/projected-schedule-of-undergraduate-courses",
+    "https://math.gatech.edu/projected-schedule-of-undergraduate-courses",
     "https://math.gatech.edu/projected-schedule-of-graduate-courses"
 ]
 
